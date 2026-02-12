@@ -9,6 +9,13 @@ description = "functions to prepare and analyze merfish imaging experiments"
 readme = "README.md"
 requires-python = ">=3.12"
 authors = [{ name = "Leonardo Sepulveda", email = "leonardosepulveda@gmail.com" }]
+dependencies = [
+    "numpy",
+    "pandas",
+    "shapely", 
+    "matplotlib"
+]
+
 
 [tool.setuptools.packages.find]
 where = ["src"]
