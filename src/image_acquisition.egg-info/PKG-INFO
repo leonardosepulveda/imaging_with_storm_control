@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: image_acquisition
+Version: 0.1.0
+Summary: functions to prepare and analyze merfish imaging experiments
+Author-email: Leonardo Sepulveda <leonardosepulveda@gmail.com>
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
